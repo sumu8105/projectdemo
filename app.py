@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # === CONFLICT START ===
 # Developer A might write:
-# greeting_prefix = "Hello"
+# greeting_prefix = "Hello,Hi"
 
 # Developer B might write:
 # greeting_prefix = "Hi there"
